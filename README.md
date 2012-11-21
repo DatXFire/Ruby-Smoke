@@ -1,0 +1,1 @@
+This plugin has not been fully developed. Currently its only function is /rubysmoke which gives a user 5 XP upon placing a diamond block. The functionality has not been tested yet.
